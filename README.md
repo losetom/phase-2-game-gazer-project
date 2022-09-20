@@ -23,7 +23,9 @@ SAVING YOUR WORK REMOTELY
 - Use the following commands to do so:
 
 `git add .`
+
 `git commit -m "Commit Comment"`
+
 `git push`
 
 FUTURE FEATURES AND FUNCTIONALITY 
