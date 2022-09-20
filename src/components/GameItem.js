@@ -5,8 +5,8 @@ function GameItem( {game} ) {
     <div>
         <ul id='games'>
             <li>{game.name}</li>
-            <li>{game.image}</li>
             <li>{game.type}</li>
+                {game.image}
         </ul>
     </div>
   )

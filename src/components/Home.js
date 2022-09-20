@@ -6,10 +6,14 @@ const Home = () => {
         backgroundColor: "blue",
         padding: "10px",
         fontFamily: "Sans-Serif"
+        
     };
 
     return (
-        <h1 style={myStyle}>Game Gazer</h1>
+        <div>
+            <h1 style={myStyle}>Game Gazer</h1>
+            <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png"></img>
+        </div>
     )
 };
 

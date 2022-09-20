@@ -21,14 +21,14 @@ function App() {
     <Router>
       <NavBar />
       <Switch>
-        <Route exact path={"/"}>
-          <Home />
+        <Route exact path={ "/" } >
+        <Home />
         </Route>
-      <Route exact path={"/gameform"}>
+      <Route exact path={ "/gameform" } >
        <GameForm />
        </Route>
-       <Route exact path={"/games"}>
-        <GamesList games={games} />
+       <Route exact path={ "/games" } >
+        <GamesList games={ games } />
        </Route>
       </Switch>
     </Router>
