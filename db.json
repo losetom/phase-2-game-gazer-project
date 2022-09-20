@@ -1,0 +1,58 @@
+{
+  "gameData": [
+    {
+      "id": 1,
+      "name": "Assassin's Creed",
+      "image": "https://static.wikia.nocookie.net/assassinscreed/images/6/6a/Accover.jpg/revision/latest/top-crop/width/360/height/360?cb=20210519104609",
+      "type": "Action-Adventure"
+    },
+    {
+      "id": 2,
+      "name": "League of Legends",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f",
+      "type": "MOBA"
+    },
+    {
+      "id": 3,
+      "name": "Counter Strike: Global Offensive",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_616x353.jpg?t=1641233427",
+      "type": "FPS"
+    },
+    {
+      "id": 4,
+      "name": "Valorant",
+      "image": "https://www.riotgames.com/darkroom/1440/d0807e131a84f2e42c7a303bda672789:3d02afa7e0bfb75f645d97467765b24c/valorant-offwhitelaunch-keyart.jpg",
+      "type": "FPS"
+    },
+    {
+      "id": 5,
+      "name": "Minecraft",
+      "image": "https://assets-prd.ignimgs.com/2021/12/14/minecraft-1639513933156.jpg",
+      "type": "Sandbox"
+    },
+    {
+      "id": 6,
+      "name": "Fallout: New Vegas",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_616x353.jpg?t=1586905021",
+      "type": "RPG"
+    },
+    {
+      "name": "Assassin's Creed",
+      "image": "",
+      "type": "",
+      "id": 7
+    },
+    {
+      "name": "Assassin's Creed",
+      "image": "",
+      "type": "",
+      "id": 8
+    },
+    {
+      "name": "Assassin's Creed",
+      "image": "",
+      "type": "",
+      "id": 9
+    }
+  ]
+}
