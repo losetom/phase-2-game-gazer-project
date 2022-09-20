@@ -12,4 +12,4 @@ function GameItem( {game} ) {
   )
 }
 
-export default GameItem
+export default GameItem;

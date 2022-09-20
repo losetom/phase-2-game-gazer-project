@@ -35,24 +35,6 @@
       "name": "Fallout: New Vegas",
       "image": "https://cdn.akamai.steamstatic.com/steam/apps/22380/capsule_616x353.jpg?t=1586905021",
       "type": "RPG"
-    },
-    {
-      "name": "Assassin's Creed",
-      "image": "",
-      "type": "",
-      "id": 7
-    },
-    {
-      "name": "Assassin's Creed",
-      "image": "",
-      "type": "",
-      "id": 8
-    },
-    {
-      "name": "Assassin's Creed",
-      "image": "",
-      "type": "",
-      "id": 9
     }
   ]
 }
